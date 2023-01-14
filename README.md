@@ -51,7 +51,7 @@ Each candidate is described by 8 continuous variables. The first four are simple
 
 For more detail about this problem, please check the jupyter notebook file: [Pulsar Stars Classifier](https://github.com/LewisZhang-01/Machine_Learning/blob/main/Pulsar_stars_classifier.ipynb)
 
-# Census Classifiers Ensembles & Reinforcement Learning
+# 2. Census Classifiers Ensembles & Reinforcement Learning
 ## Part A - Census Classifiers Ensembles
 
 1. Clean and prepare the dataset for machine learning analysis. You can do basic feature engineering to make your techniques scalable, but there is no need to go overboard with the dataset cleaning. Carefully consider the evaluation measure(s) that you use for this exercise and justify why you selected the particular evaluation measure(s).
